@@ -1,0 +1,2 @@
+# JapanScala
+Maven Scala  Idea
